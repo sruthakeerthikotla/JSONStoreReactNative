@@ -65,7 +65,7 @@ collection.addData(data)
 ```
 
 ##### Finding Documents:
-JSONStoreCollection provides you with a rich set of APIs to find your documents. To find all the documents in a collection use findAllDocuments API. For more info about querying your data check [this](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/application-development/jsonstore/reactnative/queryData/)	
+JSONStoreCollection provides you with a rich set of APIs to find your documents. To find all the documents in a collection use findAllDocuments API. Check this out for more info about [Querying your JSONStoreCollection](http://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/application-development/jsonstore/reactnative/queryData/)	
 ```
 collection.findAllDocuments().then(data => {
  	// success
