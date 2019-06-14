@@ -9,8 +9,8 @@
   "dependencies": {
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
-    "react-native-ibm-mobilefirst": "file:../../../SDKs/mfp-react-native-yash/core/target/react-native-ibm-mobilefirst.tar.gz",
-    "react-native-ibm-mobilefirst-jsonstore": "file:../../../SDKs/mfp-react-native-yash/jsonstore/target/react-native-ibm-mobilefirst-jsonstore.tar.gz"
+    "react-native-ibm-mobilefirst": "^8.0.2019041208",
+    "react-native-ibm-mobilefirst-jsonstore": "^8.0.2019041511"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
